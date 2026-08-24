@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CleanLock</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 24 Aug 2026 09:32:54 +0300</pubDate>
+            <link>https://github.com/crazynfs7/CleanLock-Releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# CleanLock 1.1.0
+
+- Добавлена встроенная безопасная проверка обновлений.
+- Приложение теперь подписывается постоянной подписью, поэтому разрешение Accessibility сохраняется между версиями.
+- Сборка больше не оставляет вторую копию `CleanLock.app` на диске.
+- При удержании двух клавиш Command отображается анимированный отсчёт 3 → 2 → 1.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/crazynfs7/CleanLock-Releases/main/CleanLock-1.1.0.zip" length="1926613" type="application/octet-stream" sparkle:edSignature="Fa0x/30Wi221kejQqcLMFHuB0NBWcT5zBiibieSzlFISETqJ08yI6CpSjxRxc5w1Aoxpdw9DRBwhVMO5N7l8Bg=="/>
+        </item>
+    </channel>
+</rss>
