@@ -3,6 +3,27 @@
     <channel>
         <title>CleanLock</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Wed, 14 Oct 2026 19:34:22 +0300</pubDate>
+            <link>https://github.com/crazynfs7/CleanLock-Releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# CleanLock 1.2.0
+
+- START, режим чистки и отсчёт теперь используют одинаковое центрирование: цифра и подпись выравниваются вместе, как один блок.
+- Во время чистки экраны становятся чёрными, а окно CleanLock остаётся видимым поверх фона.
+- После успешного удержания двух Command звучит тихий сигнал. Его можно отключить в меню CleanLock → Unlock Sound.
+- При отмене отсчёта чистка продолжается без звука. При разблокировке, выходе, сне или смене пользователя чёрный фон убирается.
+- Сохранены одна кнопка в окне, трёхсекундное удержание Command, поддержка «Уменьшения движения» и встроенные обновления.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/crazynfs7/CleanLock-Releases/main/CleanLock-1.2.0.zip" length="1958641" type="application/octet-stream" sparkle:edSignature="NTUk2zMnnrtM1gZXxF0q1ugLIXdMLraewRg3NksDniDDS8+ESa0HPV1jvc6SC9b0rYRzBcyasYJhuiTRr0pkDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/crazynfs7/CleanLock-Releases/main/CleanLock4-3.delta" sparkle:deltaFrom="3" length="45942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l7LFjGyrGs8c89acML/+zb4Zt7U+G2fegaVY6UP7Vl8WmjhJny7rDRXApbxhRIiiTAMTvfia0JxxvZzxGT+pCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/crazynfs7/CleanLock-Releases/main/CleanLock4-2.delta" sparkle:deltaFrom="2" length="52598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JVH+Q/G8PRxWlwIrk9hZ61PkhZJC54oDSKTEkYc8rDOoRBGx4GnWf9NvoWVqJsQDXXmDl7QNrgcSvbh9V1PKDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Wed, 14 Oct 2026 19:22:17 +0300</pubDate>
             <link>https://github.com/crazynfs7/CleanLock-Releases</link>
